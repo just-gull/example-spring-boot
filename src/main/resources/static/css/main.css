@@ -1,0 +1,24 @@
+body {
+    padding-top: 15px;
+}
+
+#resume-list {
+    padding-top: 10px;
+}
+
+.resume-photo {
+    width: 101px;
+    height: 130px;
+    object-fit: cover;
+}
+
+.media-heading {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 800px;
+}
+
+.media {
+    padding: 10px;
+}
